@@ -1,0 +1,4 @@
+colorama>=0.4.6
+requests>=2.25.1
+psutil>=5.9.5
+pygments>=2.16.1
